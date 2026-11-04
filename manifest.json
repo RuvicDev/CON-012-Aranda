@@ -6,6 +6,7 @@
   "description": "Gestión de casos del service desk de Aranda ASMS: crear y consultar casos, catálogos, descubrimiento (proyectos, servicios, categorías, modelos, estados) y CMDB",
   "description_en": "Aranda ASMS service desk case management: create and query cases, catalogs, discovery (projects, services, categories, models, states) and CMDB",
   "category": "itsm",
+  "icon": "icon.svg",
   "category_en": "itsm",
   "keywords": ["aranda", "asms", "service desk", "mesa de servicio", "itsm", "caso", "incidente", "requerimiento", "problema", "cambio", "ticket", "cmdb", "ci"],
   "library": {
